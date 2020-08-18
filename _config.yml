@@ -20,12 +20,12 @@ description:
 baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: "https://fakebona.xyz/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
-  name:
-  twitter:
-  picture:
+  name: bona
+  picture: /images/bona.png
+instagram_username: fakebona
 twitter_username:
 github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/logo.png"# path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true  # true, false (default)
 search_provider: # lunr (default), algolia
