@@ -28,7 +28,7 @@ En 2018 bajo la idea de crear SoulTrap en español con wanted decidimos escribir
   <a href="https://music.apple.com/us/album/intimidating-single/1487283176?uo=4">
     <div class="hyperFollowDspLink">
       <div>
-        <img src="/images/page/Apple Music.svg" class="hyperFollowDspIcon">
+        <img src="/images/page/Apple_Music.svg" class="hyperFollowDspIcon">
           <span class="pageButton">
             <div style="float:right;line-height: 40px;">
               <i class="fa fa-angle-double-right" aria-hidden="true"></i>
