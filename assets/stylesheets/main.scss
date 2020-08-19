@@ -8,3 +8,9 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+.SocialIcon{
+    max-width: 100%;
+    height: auto;
+    width: auto/9; /* Bug de ie8 */
+}
